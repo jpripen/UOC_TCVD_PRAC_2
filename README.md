@@ -18,7 +18,7 @@ Juan Alonso Franco Blanco y Juan Prieto Pena
 # Dataset
 Se puede ver el dataset en la siguiente dirección https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009
 
-También puede descargarlo en este mismo repositorio con el nombre de "winequality-red.csv"
+También puede descargarlo en este mismo repositorio con el nombre de "winequality-red.csv" o el fichero final con el filtrado de los datos con el nombre "df_wine_final.csv".
 
 # Acerca de este software
 Este software es parte de la Práctica 2 de la asignatura: "Tipologia y ciclo de vida de los datos".
