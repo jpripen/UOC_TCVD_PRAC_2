@@ -10,10 +10,14 @@ Juan Alonso Franco Blanco y Juan Prieto Pena
 
 # Contenidos
 * README.md: Este archivo
-* PRAC_2.ipynb: Notebook de Python con el código de la práctica
 * winequality-red.csv: Dataset de la práctica
 * df_wine_final.csv: Dataset con datos seleccionados del conjunto de datos inicial
 * Informe_PRAC2.pdf: Informe en formato PDF de la práctica.
+
+Carpeta code:
+* PRAC_2.ipynb: Notebook de Python con el código de la práctica
+* winequality-red.csv: Dataset de la práctica
+* df_wine_final.csv: Dataset con datos seleccionados del conjunto de datos inicial
 
 # Dataset
 Se puede ver el dataset en la siguiente dirección https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009
