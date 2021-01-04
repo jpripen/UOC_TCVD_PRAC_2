@@ -12,6 +12,7 @@ Juan Alonso Franco Blanco y Juan Prieto Pena
 * README.md: Este archivo
 * PRAC_2.ipynb: Notebook de Python con el código de la práctica
 * winequality-red.csv: Dataset de la práctica
+* df_wine_final.csv: Dataset con datos seleccionados del conjunto de datos inicial
 * FRANCOBLANCO_JUANALONSO_PEC4.docx.pdf: Informe en formato PDF de la práctica.
 
 # Dataset
